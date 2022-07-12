@@ -1,5 +1,10 @@
 ### Sup 👋
 
+- 🌱 I’m currently learning mobile development.
+- 📫 How to reach me: GOsty#6383 (Discord)
+
+[My Certificates](https://drive.google.com/drive/folders/1ltFGxVigX1lerctJi_6UcTzsZ4Cj7x15?usp=sharing)
+
 <!--
 **ghifari21/ghifari21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
