@@ -11,7 +11,7 @@
 My name is Ghifari Octaverin and I'm a Computer Science Student at Universitas Pendidikan Indonesia. I'm an enthusiastic and self-motivated person. I'm always energetic and eager to learn new skills, especially in mobile development. Currently, I'm studying Android Development with Kotlin. I'm also familiar with Dart language for Flutter Development. Also now I'm looking for an opportunity to learn to work an Android projects as a team.
 
 <div align="right">
-  <img alt="suisei" align="right" src="https://github.com/ghifari21/ghifari21/blob/07b88f8c5dbc546a8408a51a6bb91d68b7bc57db/assets/suisei-ghost-1.gif">
+  <img alt="suisei" align="right" width="55%" src="https://github.com/ghifari21/ghifari21/blob/07b88f8c5dbc546a8408a51a6bb91d68b7bc57db/assets/suisei-ghost-1.gif">
 </div>
 
 <br/>
