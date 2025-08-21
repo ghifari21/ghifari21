@@ -5,8 +5,8 @@ My name is Ghifari Octaverin and I'm a Mobile App Developer specializing in Andr
 
 <br/>
 
-- 🌱 I’m currently learning about **Flutter**
-- 💬 Feel free to ask me about **Android**
+- 🌱 I’m currently learning about **Kotlin Multiplatform**
+- 💬 Feel free to ask me about **Android** & **Flutter**
 - 📫 How to reach me: [ghifariocta21@gmail.com](mailto:ghifariocta21@gmail.com)
 
 <br/>
